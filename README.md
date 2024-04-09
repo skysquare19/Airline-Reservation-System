@@ -43,7 +43,7 @@ Getting Started:
 To run this project locally, follow these steps:
 
 Clone this repository to your local machine.
-Install Python and Django framework if not already installed.
+Install java framework if not already installed.
 Install required dependencies by running pip install -r requirements.txt.
 Run migrations to set up the database by running python manage.py migrate.
 Create a superuser account for accessing the admin panel by running python manage.py createsuperuser.
